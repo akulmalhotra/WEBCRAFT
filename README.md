@@ -10,7 +10,7 @@ The project is organized into three comprehensively commented Jupyter Notebooks:
 | :--- | :--- | :--- |
 | **`WEBCRAFT_resnet18_CIFAR100.ipynb`** | Recreates experiments for ResNet-18 and ResNet-50 architectures. | CIFAR-100
 | **`WEBCRAFT_ViT_CIFAR100.ipynb`** | Recreates experiments for Vision Transformer (ViT-B) architectures. | CIFAR-100
-| **`WEBCRAFT_ViT_imagenet.ipynb`** | Large-scale validation experiments for ViT-B. | ImageNet (Val)
+| **`WEBCRAFT_ViT_imagenet.ipynb`** | Large-scale validation experiments for ViT-B. | ImageNet
 
 ## Usage Instructions
 
